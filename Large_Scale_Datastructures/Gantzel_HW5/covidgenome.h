@@ -1,0 +1,1 @@
+char * COVID_Genome();
